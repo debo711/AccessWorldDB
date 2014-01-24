@@ -1,0 +1,12 @@
+C:\Users\obeezy\Desktop\Assgn6_Fall2012\Assgn6_Fall2012\bin\Debug\Assgn6_Fall2012.exe
+C:\Users\obeezy\Desktop\Assgn6_Fall2012\Assgn6_Fall2012\bin\Debug\Assgn6_Fall2012.pdb
+C:\Users\obeezy\Desktop\Assgn6_Fall2012\Assgn6_Fall2012\obj\x86\Debug\Assgn6_Fall2012.exe
+C:\Users\obeezy\Desktop\Assgn6_Fall2012\Assgn6_Fall2012\obj\x86\Debug\Assgn6_Fall2012.pdb
+C:\Users\obeezy\Desktop\CS3310 File Structures\Assgn6_Fall2012\Assgn6_Fall2012\obj\x86\Debug\Assgn6_Fall2012.exe
+C:\Users\obeezy\Desktop\CS3310 File Structures\Assgn6_Fall2012\Assgn6_Fall2012\obj\x86\Debug\Assgn6_Fall2012.pdb
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assgn6_Fall2012\Assgn6_Fall2012\obj\x86\Debug\Assgn6_Fall2012.exe
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assgn6_Fall2012\Assgn6_Fall2012\obj\x86\Debug\Assgn6_Fall2012.pdb
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assgn6_Fall2012\Assgn6_Fall2012\bin\Debug\Assgn6_Fall2012.exe
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assgn6_Fall2012\Assgn6_Fall2012\bin\Debug\Assgn6_Fall2012.pdb
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assgn6_Fall2012\Assgn6_Fall2012\bin\Debug\MySql.Data.dll
+C:\Users\obeezy\Desktop\CS 3310 File Structures\Assgn6_Fall2012\Assgn6_Fall2012\obj\x86\Debug\Assgn6_Fall2012.csprojResolveAssemblyReference.cache
